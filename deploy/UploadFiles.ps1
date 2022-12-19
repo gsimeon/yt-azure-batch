@@ -1,4 +1,4 @@
-$storageAccountName = '[Your Azure storage account name]'
+$storageAccountName = 'aptsstorageaccount'
 $storageAccountKey = '[Your Azure storage account key]'
 
 
