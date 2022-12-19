@@ -1,4 +1,4 @@
-﻿$location = "[Your location]"
+﻿$location = "East US"
 
 az deployment sub create `
 	--location $location `
